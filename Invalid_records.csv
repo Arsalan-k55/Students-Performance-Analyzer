@@ -1,0 +1,5 @@
+Name,Marks,Reason
+Max,120.0,Marks out of range
+Alex,,Missing Columns
+,100.0,Empty Name
+Peter,abc,Invalid Marks
